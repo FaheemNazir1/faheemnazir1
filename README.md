@@ -62,11 +62,11 @@ Currently focused on **Software Engineering, Full-Stack Development, C++, and Ar
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaheemNazir1&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub](https://img.shields.io/badge/GitHub-FaheemNazir1-181717?style=for-the-badge&logo=github)](https://github.com/FaheemNazir1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaheemNazir1&layout=compact&theme=tokyonight&hide_border=true)
+[View my repositories →](https://github.com/FaheemNazir1?tab=repositories)
 
 ---
 
